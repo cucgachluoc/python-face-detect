@@ -1,4 +1,4 @@
-import cv2
+'''import cv2
 from facenet_pytorch import MTCNN
 import torch
 import numpy as np
@@ -38,4 +38,4 @@ while cap.isOpened():
     if cv2.waitKey(1)&0xFF == 27:
         break
 cap.release()
-cv2.destroyAllWindows()
+cv2.destroyAllWindows()'''
